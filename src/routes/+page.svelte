@@ -68,12 +68,12 @@
 <div class="p-10">
   <h1 class="text-2xl mb-4">Augmented Tours acquire geolocations app</h1>
 
-  <div class="flex gap-8">
-    <div id="map-container" class="w-full lg:w-1/2 h-[460px]" bind:this={ mapContainer }>
+  <div class="flex-none lg:flex gap-8">
+    <div id="map-container" class="w-full h-[460px]" bind:this={ mapContainer }>
       &nbsp;
     </div>
 
-    <div class="w-full lg:w-1/2">
+    <div class="w-full">
       <h2 class="text-xl mb-4">Points of interest</h2>
       <div class="form-control w-full mb-4">
         <div class="input-group">
