@@ -68,7 +68,7 @@
 <div class="p-10">
   <h1 class="text-2xl mb-4">Augmented Tours acquire geolocations app</h1>
 
-  <div class="flex-none lg:flex gap-8">
+  <div class="flex-none lg:flex lg:gap-8">
     <div id="map-container" class="w-full h-[460px]" bind:this={ mapContainer }>
       &nbsp;
     </div>
